@@ -5,7 +5,7 @@
  */
 
 /**
- * Repository GitHub Lab #1
+ * Program prints and displays "Hello World"
  */
 
 public class HelloWorld
