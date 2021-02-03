@@ -1,5 +1,5 @@
-/* Class: CISC 3130
- * Section:TY9
+/* Class: CISC 3140
+ * Section:MW2
  * EmplId:23335766
  * Name:Cesar Cortes
  */
